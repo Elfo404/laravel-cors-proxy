@@ -11,6 +11,10 @@
     {
       "name": "Giordano Ricci",
       "email": "me@giordanoricci.com"
+    },
+    {
+      "name": "Roberto Andrade",
+      "email": "me@robertoandrade.com"
     }
   ],
   "autoload": {
